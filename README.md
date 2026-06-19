@@ -12,3 +12,15 @@ To assemble it, You just need to place the rag holder on top of the sponge tray 
  There should be 3 different parts, the sponge tray with the sponge holder and the rag holder
  <img width="848" height="457" alt="Screenshot 2026-06-18 150847" src="https://github.com/user-attachments/assets/cc9d5891-5b6d-4742-b041-4e045f842388" />
 
+Print settings:
+Print with PETG
+Use .4 mm nozel
+printed with bambu labs a1 mini
+
+Use supports for angles 45 degrees and over
+use 10-14% infill
+
+Credits: 
+
+Macondo hack club,
+Fusion 360
