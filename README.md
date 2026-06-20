@@ -18,6 +18,10 @@ Print with PETG
 Use .4 mm nozel
 printed with bambu labs a1 mini
 
+<img width="1014" height="707" alt="Screenshot 2026-06-19 224337" src="https://github.com/user-attachments/assets/9fbcb065-3546-4e54-83e6-37ac1bf22f51" />
+<img width="822" height="532" alt="Screenshot 2026-06-20 223442" src="https://github.com/user-attachments/assets/59a23134-e308-4ef8-ab1a-364fc9bb2bc6" />
+
+
 Use supports for angles 45 degrees and over
 use 10-14% infill
 
